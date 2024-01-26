@@ -1,0 +1,5 @@
+name: "${project.name}"
+main: zensagex.SavePlayerSkin
+version: "${project.version}"
+api: ["1.0.0"]
+author: ZenSageX444, SimpleZx
